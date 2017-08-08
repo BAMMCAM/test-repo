@@ -15,6 +15,7 @@ public class App {
 			String line = in.nextLine();
 			
 			System.out.println(line);
+		System.out.println("Hello");
 		}
 		
 		in.close();
